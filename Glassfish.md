@@ -65,19 +65,19 @@ asadmin deploy glassfishdemo.war
 
 Application Accessible through port 8088:
 
-![Untitled](Glassfish%201f36bf5210b540a0934eb2d44219e7b9/Untitled.png)
+![Untitled](images/Untitled.png)
 
 Proof that application war has been deployed
 
-![Untitled](Glassfish%201f36bf5210b540a0934eb2d44219e7b9/Untitled%201.png)
+![Untitled](images/Untitled%201.png)
 
 War generation using Eclipse
 
  
 
-![Untitled](Glassfish%201f36bf5210b540a0934eb2d44219e7b9/Untitled%202.png)
+![Untitled](images/Untitled%202.png)
 
-![Untitled](Glassfish%201f36bf5210b540a0934eb2d44219e7b9/Untitled%203.png)
+![Untitled](images/Untitled%203.png)
 
 ### Bonus: Undeploying the war
 
