@@ -34,3 +34,9 @@ Replace `ALLOWED_HOSTS =` ['localhost']
 					 --access-logformat 'requested from remote address %(h)s' \
 					 --error-logfile gunicorn_error
 ```
+
+### Relevant Screenshots/Outputs:
+
+To prove logging in custom format form the gunicorn server
+
+![Untitled](images/guni.png)
